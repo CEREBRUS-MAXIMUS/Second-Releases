@@ -1,2 +1,2 @@
-# Otherwise-Releases
-These are the releases for Otherwise.
+# Second-Releases
+These are the releases for Second.
